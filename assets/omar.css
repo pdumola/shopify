@@ -1,9 +1,9 @@
 /*CUSTOM CSS BY OMAR */
-html{
+.html{
     padding: 0;
     background-color:red;
   }
-  body{margin:0; background-color:purple;}
+  .body{margin:0; background-color:purple;}
 /*FIRST HEADER*/
 .upperHeader {
   justify-content: center;
