@@ -12,7 +12,7 @@
   background-color:limegreen;
 }
 .card__heading{
-  height:54px;
+  max-height:54px;
 }
 /*FIRST HEADER*/
 .upperHeader {
