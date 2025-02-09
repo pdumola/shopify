@@ -77,9 +77,6 @@
 /* base */
 /*if you see this then both files are in sync boy!!!*/
 
-.header__heading-link{
-  visibility:visible;
-}
 
 .page-width {
   max-width: var(--page-width);
