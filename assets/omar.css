@@ -8,6 +8,9 @@
     padding:0;
     background-color:purple;
            }
+.collection-list-wrapper{
+  background-color:limegreen;
+}
 /*FIRST HEADER*/
 .upperHeader {
   justify-content: center;
