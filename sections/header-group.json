@@ -15,7 +15,7 @@
       "type": "custom-liquid",
       "custom_css": [],
       "settings": {
-        "custom_liquid": "<div class=\"sectionOne\">\n    <div class=\"upperHeader\">\n      <div class=\"upperHeaderDiv\"><img class=\"upperHeaderIcon\"  src=\"https://www.svgrepo.com/show/535565/phone.svg\">\n<a id=\"number\" href=\"#\">\n        954-635-7908\n      </a>\n</div>\n      <div class=\"upperHeaderDiv\"><img class=\"upperHeaderIcon\"  src=\"https://www.svgrepo.com/show/511921/email-1573.svg\"><a href=\"https://www.google.com\" target=\"_blank\">\n        customercare@cleaninsupplies.com\n      </a></div>\n\n<div class=\"upperHeaderDiv\"><img class=\"upperHeaderIcon\"  src=\"https://www.svgrepo.com/show/418984/address-location-map.svg\"><a href=\"https://www.google.com\" target=\"_blank\">\n8298 pine rd Tamarac FL, 33321\n</a></div>\n    </div>\n  </div>",
+        "custom_liquid": "{%render 'omarHeader1'%}",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
