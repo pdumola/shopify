@@ -32,8 +32,9 @@ a {
 @media screen and (max-width: 1300px) {
   html{
     padding: 0;
+    background-color:red;
   }
-  body{margin:0;}
+  body{margin:0; background-color:purple;}
   .upperHeader {
     background-color: 0;
     flex-flow: column;
