@@ -33,6 +33,7 @@ a {
   html{
     padding: 0;
   }
+  body{margin:0;}
   .upperHeader {
     background-color: 0;
     flex-flow: column;
