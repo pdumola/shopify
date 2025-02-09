@@ -74,6 +74,10 @@ a {
   .search-modal__content{
     margin-top:200px;
   }
+
+  .collection-list-wrapper{
+  padding:0;
+}
 }
 
 
