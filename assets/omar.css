@@ -67,11 +67,7 @@ a {
   .address {
     margin: 0;
   }
-  .logoSection img {
-  width: 150px;
-  position: relative;
-  z-index: 2;
-}
+  
   .search-modal__content{
     margin-top:200px;
   }
