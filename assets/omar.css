@@ -1,5 +1,9 @@
 /*CUSTOM CSS BY OMAR */
-
+html{
+    padding: 0;
+    background-color:red;
+  }
+  body{margin:0; background-color:purple;}
 /*FIRST HEADER*/
 .upperHeader {
   justify-content: center;
@@ -30,11 +34,7 @@ a {
   margin-right: 5px;
 }
 @media screen and (max-width: 1300px) {
-  html{
-    padding: 0;
-    background-color:red;
-  }
-  body{margin:0; background-color:purple;}
+  
   .upperHeader {
     background-color: 0;
     flex-flow: column;
