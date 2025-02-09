@@ -1,3 +1,40 @@
 /*CUSTOM CSS BY OMAR */
 
-
+.upperHeader {
+  justify-content: center;
+  font-size: 1.1em;
+  background-color: 0;
+  display: flex;
+  flex-flow: row;
+  gap: 20px;
+  font-weight: bold;
+  padding: 0 5%;
+  width: 100%;
+  margin: 20px auto 0 auto;
+}
+.upperHeaderDiv {
+  background-color: 0;
+  display: flex;
+  justify-content: center;
+}
+.address {
+  margin-right: auto;
+}
+a {
+  text-decoration: none;
+}
+.upperHeaderIcon {
+  width: 1.1em;
+  background-color: 0;
+  margin-right: 5px;
+}
+@media screen and (max-width: 1000px) {
+  .upperHeader {
+    background-color: 0;
+    flex-flow: column;
+    gap: 5px;
+  }
+  .address {
+    margin: 0;
+  }
+}
