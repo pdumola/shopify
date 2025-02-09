@@ -30,6 +30,9 @@ a {
   margin-right: 5px;
 }
 @media screen and (max-width: 1300px) {
+  html{
+    padding: 0;
+  }
   .upperHeader {
     background-color: 0;
     flex-flow: column;
