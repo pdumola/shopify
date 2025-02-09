@@ -40,3 +40,17 @@ a {
   }
 }
 /*FIRST HEADER END*/
+
+/*HEADER 2 (LOGO)*/
+.logoSection {
+  background-color: darkslateblue;
+  position: relative;
+  height: 60px;
+}
+.logoSection img {
+  width: 250px;
+  position: relative;
+  z-index: 2;
+}
+
+/*END HEADER 2*/
