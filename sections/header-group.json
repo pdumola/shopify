@@ -28,7 +28,7 @@
         ".logoSection img {width: 250px; position: relative; z-index: 2;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"logoSection\">\n  <a href=\"#\" target=\"_blank\"><img src=\"https://www.cleaningdepotsupply.com/cdn/shop/t/12/assets/logo.png?v=10671776298964438031709579461\"></a>\n</div>",
+        "custom_liquid": "<div class=\"logoSection\">\n  <a href=\"#\"><img src=\"https://www.cleaningdepotsupply.com/cdn/shop/t/12/assets/logo.png?v=10671776298964438031709579461\"></a>\n</div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
