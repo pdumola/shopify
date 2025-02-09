@@ -11,6 +11,9 @@
 .collection-list-wrapper{
   background-color:limegreen;
 }
+.card__heading{
+  height:54px;
+}
 /*FIRST HEADER*/
 .upperHeader {
   justify-content: center;
