@@ -78,7 +78,7 @@
 /*if you see this then both files are in sync boy!!!*/
 
 .header__heading-link{
-  visibility:hidden;
+  visibility:visible;
 }
 
 .page-width {
