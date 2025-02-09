@@ -3,7 +3,11 @@
     padding: 10px;
     background-color:red;
   }
-  .gradient{margin:0; background-color:purple;}
+  .gradient{
+    margin:0;
+    padding:0;
+    background-color:purple;
+           }
 /*FIRST HEADER*/
 .upperHeader {
   justify-content: center;
