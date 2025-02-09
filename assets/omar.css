@@ -33,7 +33,7 @@ a {
   .upperHeader {
     background-color: 0;
     flex-flow: column;
-    gap: 5px;
+    gap: 1px;
   }
   .address {
     margin: 0;
