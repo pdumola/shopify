@@ -47,6 +47,11 @@ a {
   .address {
     margin: 0;
   }
+  .logoSection img {
+  width: 150px;
+  position: relative;
+  z-index: 2;
+}
 }
 /*FIRST HEADER END*/
 
