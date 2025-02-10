@@ -9,7 +9,7 @@
     background-color:0;
            }
 .collection-list-wrapper{
-  background-color:limegreen;
+  background-color:0;
 }
 .card__heading{
   max-height:580px;
@@ -18,7 +18,7 @@
 .upperHeader {
   justify-content: center;
   font-size: 1.1em;
-  background-color: hotpink;
+  background-color: 0;
   display: flex;
   gap: 20px;
   font-weight: bold;
@@ -26,7 +26,7 @@
   margin: 20px auto 0 auto;
 }
 .upperHeaderDiv {
-  background-color: lightgreen;
+  background-color: 0;
   display: flex;
   justify-content: center;
   align-content: center;
