@@ -168,7 +168,7 @@ header-wrapper {
 /*FOOTER BANNER*/
 .footerBanner{
     display: flex;
-    padding: 10px;
+    padding: 10px 20px;
     color: white;
     background-color: #212121;
     justify-content: space-between;
