@@ -165,6 +165,36 @@ header-wrapper {
     gap: 6px;
 }
 /*FOOTER END*/
+/*FOOTER BANNER*/
+.footerBanner{
+    display: flex;
+    padding: 10px;
+    color: white;
+    background-color: #212121;
+    justify-content: space-between;
+}
+.footerBannerSection1{
+    background-color: rgba(173, 255, 47, 0);
+    align-content: center;
+}
+.footerBannerSection2{
+    background-color: rgba(255, 64, 47, 0);
+    display: flex;
+    justify-content: flex-end;
+    gap: 6px;
+}
+.footerBannerSection2 svg{
+    border-radius: 50%;
+    border: 0 solid white;
+    padding: 4px;
+    width: 25px;
+    margin-top:5px;
+}
+.footerBannerSection2 svg:hover{
+    background-color: #d2aa1c;
+    cursor: pointer;
+    border-radius: 50%;
+}
 
 @media screen and (max-width: 1000px) {
     .supportBlock {
