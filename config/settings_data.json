@@ -392,16 +392,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".supportBlockContainer {background-color: 0; padding: 10px 40px; height: auto; width: 100%;}",
-      ".supportBlock {display: flex; flex-flow: row; background-color: 0; justify-content: space-around; height: 100%; text-align: center;}",
-      ".blockImg {width: 40px;}",
-      ".block1,.block2,.block3 {border-right: solid 2px #ebe6e6; margin-right: 20px; text-align: center; background-color: 0; padding-right: 5.5%;}",
-      ".block4 {padding-right: 3%;}",
-      ".block1 {margin-left: 43px;}",
-      ".header-wrapper {padding: 0; background-color: red; overflow: visible; display: flex; flex-flow: row;}",
-      ".header {display: flex; justify-content: center; font-weight: bold; background-color: red; width: 100%; overflow: visible; padding: 0;}",
-      "@media screen and (max-width: 1000px) {.supportBlock {background-color: yellow; display: flex; flex-flow: column; } .block1, .block2, .block3 {border-right: none; } .header {justify-content: right; padding-right: 10px; }}"
-    ]
+    "custom_css": []
   }
 }
