@@ -242,6 +242,11 @@ header-wrapper {
   .collection-list-wrapper{
   padding:0;
 }
+
+
+  .bannerSection img{
+    height:40vh;
+  }
 }
 
 
