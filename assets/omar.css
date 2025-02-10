@@ -17,6 +17,9 @@
 .image1, .image2{
   width: 100%;
 }
+.image2{
+  display:none;
+}
 /*FIRST HEADER*/
 .upperHeader {
   justify-content: center;
