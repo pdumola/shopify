@@ -119,7 +119,7 @@ a {
 /*SUPPORT BANNER END*/
 header-wrapper {
     padding: 0;
-    background-color: red;
+    background-color: 0;
     overflow: visible;
     display: flex;
     flex-flow: row;
