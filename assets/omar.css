@@ -48,7 +48,7 @@ a {
 
 /*HEADER 2 (LOGO)*/
 .logoSection {
-  background-color: 0;
+  background-color: #212121FF;
   position: relative;
   height: 60px;
 }
