@@ -195,6 +195,12 @@ header-wrapper {
     cursor: pointer;
     border-radius: 50%;
 }
+.bannerSection img {
+  width: 100%;
+}
+.image2 {
+  display: none;
+}
 
 @media screen and (max-width: 1000px) {
   .image1{
