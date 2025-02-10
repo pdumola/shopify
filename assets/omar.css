@@ -128,7 +128,7 @@ header-wrapper {
     display: flex;
     justify-content: center;
     font-weight: bold;
-    background-color: red;
+    background-color: 0;
     width: 100%;
     overflow: visible;
     padding: 0;
