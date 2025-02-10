@@ -117,6 +117,22 @@ a {
     }
 }
 /*SUPPORT BANNER END*/
+header-wrapper {
+    padding: 0;
+    background-color: red;
+    overflow: visible;
+    display: flex;
+    flex-flow: row;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    background-color: red;
+    width: 100%;
+    overflow: visible;
+    padding: 0;
+}
 
 
 
