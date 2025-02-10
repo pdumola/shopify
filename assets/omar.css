@@ -62,68 +62,59 @@ a {
 
 /*SUPPORT BANNER*/
 .supportBlockContainer {
-  background-color: 0;
-  padding: 10px 40px;
-  height: auto;
-  width: 100%;
+    background-color: rgba(255, 192, 203, 0);
+    padding:10px;
+    height: auto;
 }
 .supportBlock {
-  display: flex;
-  flex-flow: row;
-  background-color: 0;
-  justify-content: space-around;
-  height: 100%;
-  text-align: center;
+    display: flex;
+    flex-flow: row;
+    background-color: rgba(173, 255, 47, 0);
+    text-align: center;
+    justify-content: space-around;
 }
 .blockImg {
-  width: 40px;
+    width: 40px;
 }
 .block1,
 .block2,
-.block3 {
-  border-right: solid 2px #ebe6e6;
-  margin-right: 20px;
-  text-align: center;
-  background-color: 0;
-  padding-right: 5.5%;
+.block3,
+.block4 {
+    border-right: solid 1px #e0e0e0;
+    text-align: center;
+    background-color: 0;
+    width: 25%;
 }
 .block4 {
-  padding-right: 3%;
+    border:none;
 }
 .block1 {
-  margin-left: 43px;
 }
-.header-wrapper {
-  padding: 0;
-  background-color: red;
-  overflow: visible;
-  display: flex;
-  flex-flow: row;
-}
-.header {
-  display: flex;
-  justify-content: center;
-  font-weight: bold;
-  background-color: red;
-  width: 100%;
-  overflow: visible;
-  padding: 0;
-}
+
 @media screen and (max-width: 1000px) {
-  .supportBlock {
-    background-color: yellow;
-    display: flex;
-    flex-flow: column;
-  }
-  .block1,
-  .block2,
-  .block3 {
-    border-right: none;
-  }
-  .header {
-    justify-content: right;
-    padding-right: 10px;
-  }
+    .supportBlock {
+        background-color: rgba(255, 255, 0, 0);
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+    }
+    .block1,
+    .block2,
+    .block3,
+    .block4 {
+        border-right: none;
+        border-bottom: solid 1px #e0e0e0;
+        background-color: rgba(233, 150, 122, 0);
+        margin-bottom: 10px;
+
+    }
+    .block4 {
+        border-bottom: none;
+    }
+    .header {
+        justify-content: right;
+        padding-right: 10px;
+    }
 }
 /*SUPPORT BANNER END*/
 
