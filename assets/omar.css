@@ -53,6 +53,7 @@ color: #ffffff;
     display: flex;
     justify-content: left;
     align-content: center;
+  align-items:center;
 
 }
 .address {
