@@ -233,7 +233,7 @@ header-wrapper {
 }
   
     .supportBlock {
-        background-color: green;
+        background-color: 0;
         display: flex;
       flex-wrap: wrap;
         align-items: center;
