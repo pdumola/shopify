@@ -242,6 +242,7 @@ header-wrapper {
     .block2,
     .block3,
     .block4 {
+      width:100%;
         border-right: none;
         border-bottom: solid 1px #e0e0e0;
         background-color: rgba(233, 150, 122, 0);
