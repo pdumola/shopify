@@ -20,48 +20,64 @@
 .image2{
   display:none;
 }
+
+.Headerwrapper1{
+    background-color: #000000;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
 /*FIRST HEADER*/
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:visited {text-decoration: none;
+color: #ffffff;
+}
 .upperHeader {
-  justify-content: center;
-  font-size: 1.1em;
-  background-color: 0;
-  display: flex;
-  gap: 20px;
-  font-weight: bold;
-  width: 100%;
-  margin: 20px auto 0 auto;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1.1em;
+    background-color: rgba(0, 128, 0, 0);
+    display: flex;
+    gap: 20px;
+    font-weight: bold;
+    width: 100%;
+    margin: 20px auto 0 auto;
 }
 .upperHeaderDiv {
-  background-color: 0;
-  display: flex;
-  justify-content: center;
-  align-content: center;
+    background-color: rgba(118, 118, 196, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 
 }
 .address {
-  margin-right: auto;
+    margin-right: auto;
 }
 a {
-  text-decoration: none;
+    text-decoration: none;
 }
 .upperHeaderIcon {
-  width: 1.1em;
-  background-color: 0;
-  margin-right: 5px;
+    width: 1.1em;
+    background-color: 0;
+    margin-right: 5px;
 }
 
 /*FIRST HEADER END*/
 
 /*HEADER 2 (LOGO)*/
 .logoSection {
-  background-color: #212121FF;
-  position: relative;
-  height: 60px;
+    background-color: rgba(210, 170, 28, 0);
+    position: relative;
+    height: 60px;
 }
 .logoSection img {
-  width: 250px;
-  position: relative;
-  z-index: 2;
+    width: 250px;
+    position: relative;
+    z-index: 2;
 }
 
 /*END HEADER 2*/
