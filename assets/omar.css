@@ -243,13 +243,11 @@ header-wrapper {
     .block3,
     .block4 {
       width:50%;
-        border-right: none;
-        border-bottom: solid 1px #e0e0e0;
         background-color: rgba(233, 150, 122, 0);
         margin-bottom: 10px;
     }
     .block4 {
-        border-bottom: none;
+
     }
     .header {
         justify-content: right;
