@@ -36,10 +36,10 @@ a:visited {text-decoration: none;
 color: #ffffff;
 }
 .upperHeader {
-    justify-content: left;
+    justify-content: center;
     flex-wrap: wrap;
     font-size: 1.1em;
-    background-color: rgba(0, 128, 0, 0);
+    background-color: green;
     display: flex;
     gap: 20px;
     font-weight: bold;
