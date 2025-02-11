@@ -48,7 +48,7 @@ color: #ffffff;
     margin: 20px auto 0 auto;
 }
 .upperHeaderDiv {
-    background-color: rgba(118, 118, 196, 0);
+    background-color: pink;
     color: white;
     display: flex;
     justify-content: left;
