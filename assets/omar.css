@@ -40,6 +40,7 @@ color: #ffffff;
     flex-wrap: wrap;
     font-size: 1.1em;
     background-color: green;
+  padding:5px;
     display: flex;
     gap: 20px;
     font-weight: bold;
