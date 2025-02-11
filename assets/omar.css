@@ -235,6 +235,7 @@ header-wrapper {
     .supportBlock {
         background-color: green;
         display: flex;
+      flex-wrap: wrap;
         align-items: center;
     }
     .block1,
