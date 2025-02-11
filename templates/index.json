@@ -72,11 +72,11 @@
         "featured_collection_MdzU9y"
       ],
       "custom_css": [
-        ".collection-list-title {color: red; background-color: 0; margin-left: auto; margin-right: auto;}",
+        ".collection-list-title {color: lightskyblue; background-color: 0; margin-left: auto; margin-right: auto;}",
         ".full-unstyled-link {background-color: #eb2d2d; color: white; text-align: center; padding: 10px;}",
         ".full-unstyled-link:hover {background-color: #d62929;}",
         ".icon {color: white; font-weight: bold;}",
-        ".full-unstyled-link{background-color:black;}"
+        ".full-unstyled-link {background-color: black;}"
       ],
       "settings": {
         "title": "<strong>Shop by category</strong>",
