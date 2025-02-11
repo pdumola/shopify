@@ -23,7 +23,7 @@
 
 .Headerwrapper1{
     background-color: black;
-    padding: 0;
+    padding: 5px;
     display: flex;
     justify-content: space-between;
 }
