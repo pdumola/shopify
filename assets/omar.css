@@ -37,7 +37,7 @@ color: #ffffff;
 }
 .upperHeader {
     justify-content: flex-start;
-  
+      align-content:left;
     flex-wrap: wrap;
     font-size: 1.1em;
     background-color: green;
