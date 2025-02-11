@@ -63,6 +63,7 @@ a {
 }
 .upperHeaderIcon {
     width: .5em;
+  height:.5em;
     background-color: 0;
     margin-right: 5px;
 }
