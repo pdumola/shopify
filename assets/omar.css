@@ -39,7 +39,7 @@ color: #ffffff;
     text-align:left;
     flex-wrap: wrap;
     font-size: 1.1em;
-    background-color: green;
+    background-color: 0;
     padding:5px;
     display: flex;
     gap: 20px;
@@ -48,7 +48,7 @@ color: #ffffff;
     margin: 20px auto 0 auto;
 }
 .upperHeaderDiv {
-    background-color: pink;
+    background-color: 0;
     color: white;
     display: flex;
     justify-content: left;
