@@ -27,6 +27,9 @@
     display: flex;
     justify-content: space-between;
 }
+.header-wrapper{
+    background-color: black;
+}
 /*FIRST HEADER*/
 a{
     text-decoration: none;
