@@ -1,12 +1,13 @@
+.image2{
+  display:none;
+  }
 @media screen and (max-width: 749px) {
   .collection .grid__item:only-child {
     flex: 0 0 100%;
     max-width: 100%;
   }
 }
-.image1{
-  display:none;
-}
+
 
 @media screen and (max-width: 989px) {
   .collection .slider.slider--tablet {
@@ -100,3 +101,5 @@
 .collection__view-all a:not(.link) {
   margin-top: 1rem;
 }
+
+
