@@ -2751,6 +2751,7 @@ details[open] > .header__submenu {
   animation-fill-mode: forwards;
   z-index: 1;
   background-color: #212121;
+  color: white;
 }
 
 @media (prefers-reduced-motion) {
