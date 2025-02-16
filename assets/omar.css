@@ -185,6 +185,7 @@ header-wrapper {
 }
 .footArrowIcon {
     width: 20px;
+    height: 20px;
 }
 a:hover{
     cursor: pointer;
