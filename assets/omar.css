@@ -186,7 +186,7 @@ header-wrapper {
 .footArrowIcon {
     width: 20px;
     color: white;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0);
 }
 .footerDiv {
     display: flex;
