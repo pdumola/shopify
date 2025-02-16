@@ -188,7 +188,7 @@ header-wrapper {
 }
 a:hover{
     cursor: pointer;
-    opacity: 0.7;
+    color: red;
 }
 .footerDiv {
     display: flex;
