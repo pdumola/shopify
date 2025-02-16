@@ -2754,7 +2754,7 @@ details[open] > .header__submenu {
   color: white;
   text-decoration: none;
 }
-.header__submenu a:hover{
+details[open] >  .header__submenu a:hover{
   color: red;
   text-decoration: none;
 }
