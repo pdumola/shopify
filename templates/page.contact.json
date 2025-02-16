@@ -28,7 +28,7 @@
     }
   },
   "order": [
-    "form",
-    "main"
+    "main",
+    "form"
   ]
 }
