@@ -2756,6 +2756,7 @@ details[open] > .header__submenu {
 }
 .header__submenu a:hover{
   color: red;
+  text-decoration: none;
 }
 
 @media (prefers-reduced-motion) {
