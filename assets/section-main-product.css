@@ -1,9 +1,16 @@
+.image1{
+  display:none;
+}
+.image2{
+  display:none;
+  }
+
 product-info {
   display: block;
 }
 
 .product {
-  margin: 0;
+  margin: 15vh 0;
 }
 
 .product.grid {

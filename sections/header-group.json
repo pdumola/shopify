@@ -56,7 +56,6 @@
     },
     "custom_liquid_ceY8dX": {
       "type": "custom-liquid",
-      "custom_css": [],
       "settings": {
         "custom_liquid": "<div class=\"bannerSection\">\n\n<img class=\"image1\" src=\"https://dashboard-na.hawksearch.com/assets/3348/FreeShipping_Feb2025_Division_1440x432.jpg\">\n\n<img class=\"image2\" src=\"https://dashboard-na.hawksearch.com/assets/3348/FreeShipping_Feb2025_Mobile_780x780.jpg\">\n\n</div>",
         "color_scheme": "",

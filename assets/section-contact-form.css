@@ -1,6 +1,11 @@
-.contact img {
-  max-width: 100%;
+
+
+.image1{
+  display:none;
 }
+.image2{
+  display:none;
+  }
 
 .contact .form__message {
   align-items: flex-start;
@@ -37,3 +42,4 @@
     grid-column-gap: 2rem;
   }
 }
+
