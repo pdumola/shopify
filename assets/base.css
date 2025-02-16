@@ -2758,6 +2758,10 @@ details[open] > .header__submenu {
   color: red;
   text-decoration: none;
 }
+a:hover{
+   color: red;
+   text-decoration: none;
+ }
 
 @media (prefers-reduced-motion) {
   details[open] > .header__submenu {
