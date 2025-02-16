@@ -1,6 +1,9 @@
 .contact img {
   max-width: 100%;
 }
+.image1{
+  display:none;
+}
 
 .contact .form__message {
   align-items: flex-start;
