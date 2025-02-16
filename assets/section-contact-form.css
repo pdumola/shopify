@@ -1,3 +1,6 @@
+h1{
+  margin-top: 15vh;
+}
 .contact img {
   max-width: 100%;
 }
@@ -6,7 +9,6 @@
 }
 
 .contact .form__message {
-  margin: 15vh 0;
   align-items: flex-start;
 }
 
