@@ -1,6 +1,9 @@
 .image1{
   display:none;
 }
+.image2{
+  display:none;
+  }
 
 product-info {
   display: block;
