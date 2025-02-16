@@ -2752,6 +2752,10 @@ details[open] > .header__submenu {
   z-index: 1;
   background-color: #212121;
   color: white;
+  text-decoration: none;
+}
+.header__submenu:hover{
+  color: red;
 }
 
 @media (prefers-reduced-motion) {
