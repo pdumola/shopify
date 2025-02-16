@@ -3,6 +3,9 @@
 .image1{
   display:none;
 }
+.image2{
+  display:none;
+  }
 
 .contact .form__message {
   align-items: flex-start;
@@ -20,9 +23,6 @@
   .contact .field {
     margin-bottom: 2rem;
   }
-  .image1{
-  display:none;
-}
 }
 
 .contact__button {
@@ -33,9 +33,6 @@
   .contact__button {
     margin-top: 4rem;
   }
-  .image1{
-  display:none;
-}
 }
 
 @media screen and (min-width: 750px) {
@@ -44,13 +41,5 @@
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 2rem;
   }
-  .image1{
-  display:none;
-}
 }
 
-@media screen and (max-width: 1000px) {
-  .image1{
-  display:none;
-  }
-}
